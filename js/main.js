@@ -654,13 +654,13 @@
 //  console.log(checkTask("JavaScript"));
 
 
-let word = 'dog';
-for(let i = 0; i < word.length; i++){
-    for(let j = i + 1; j < word.length +1; j++){
-        // console.log(i ,j);
-        console.log(word.slice(i, j));
-    }
-}
+// let word = 'dog';
+// for(let i = 0; i < word.length; i++){
+//     for(let j = i + 1; j < word.length +1; j++){
+//         // console.log(i ,j);
+//         console.log(word.slice(i, j));
+//     }
+// }
 
 
 
